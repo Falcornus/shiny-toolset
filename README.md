@@ -17,3 +17,4 @@ A list of tools and libs that help in development
 - JSON generator https://json-generator.com/
 - JSON to TS converter https://transform.tools/json-to-typescript
 - Random user API https://randomuser.me/
+- Test mail addresses https://yopmail.com/en/
